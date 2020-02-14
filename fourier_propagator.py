@@ -1,20 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-
 Author - Daniel J. Whiting 
-Date modified - 10/08/2017
---- Installation ---
-Requires standard python distribution including numpy and matplotlib
---- Features ---
-A program to calculate the propagation of a 1D electric field
-through free space and various optical elements. The program 
-uses the angular spectrum method of fourier propagation and currently 
-supports propagation through thick plano-convex lenses.
---- Usage ---
-The user enters properties of the input field and sets up a sequence of propagation
-steps before running the script.
---- Changelog ---
-
 """
 
 from __future__ import division
